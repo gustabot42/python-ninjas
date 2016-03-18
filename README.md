@@ -1,2 +1,2 @@
 # python-ninjas
-Seminario de Python
+Semillero de Python
