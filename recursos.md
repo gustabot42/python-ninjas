@@ -15,3 +15,4 @@
 * http://docs.python-guide.org/en/latest/
 * http://www.rafekettler.com/magicmethods.html#conclusion
 * http://www.dataschool.io/best-python-pandas-resources/
+* https://github.com/ujjwalkarn/DataSciencePython
